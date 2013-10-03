@@ -1,1 +1,2 @@
-Adding the file to the cloned git folder. testing merging now. let's make the merge conflict happen. lfdsflkjjk
+jesse the file to the cloned git folder. testing merging now. let's make the merge conflict happen. lfdsflkjjk
+
